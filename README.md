@@ -19,7 +19,7 @@ The Data is in a csv (comma separated values) format and the data is loaded usin
 
 **Descriptive Statistics of the E-commerce dataset**
 
-The count shows a total of 500 data rows for each set of variables with no missing values. The mean, standard deviation, minimum and maximum values are all on display in the figure above. The values at the 25th, 60th and 75th percent quartiles are also described in the figure 4.2.
+The count shows a total of 500 data rows for each set of variables with no missing values. The mean, standard deviation, minimum and maximum values are all on display in the figure above. The values at the 25th, 60th and 75th percent quartiles.
 
 **Correlation figures between the variables**
 
